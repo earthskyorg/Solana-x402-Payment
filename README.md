@@ -95,7 +95,7 @@ Telegram: https://t.me/opensea712
 
 ## 🌐 Live Demo
 
-👉 [x402 Demo](https://x402.earthsky.space/)
+👉 [x402 Demo](https://x402-earthsky-space.vercel.app/)
 
 ---
 
